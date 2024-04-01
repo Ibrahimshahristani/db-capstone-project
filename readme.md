@@ -1,4 +1,7 @@
+##  ER
+ <img src="./images/ER_Diagram.png" />
 
+<a name="2"></a>
 ## GetMaxQuantity
 
 `CREATE PROCEDURE GetMaxQuantity()
@@ -128,6 +131,27 @@ BEGIN
 END;`
 
 `CALL CancelOrder(5);`
+
+##  Customer Sales
+ <img src="./images/Customer-Sales-Report.png" />
+
+<a name="2"></a>
+##  Profits
+ <img src="./images/profits.png" />
+
+<a name="2"></a>
+##  Bubble Chart
+ <img src="./images/buble.png" />
+
+<a name="2"></a>
+##  Cuisine Sales
+ <img src="./images/cusian.png" />
+
+<a name="2"></a>
+##  Dashboard
+ <img src="./images/Dashboard.png" />
+
+<a name="2"></a>
 
 
 
