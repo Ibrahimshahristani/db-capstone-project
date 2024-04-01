@@ -1,5 +1,5 @@
 ##  ER
- <img src="./ER_Diagram.png" />
+ <img src="./images/ER_Diagram.png" />
 
 <a name="2"></a>
 ## GetMaxQuantity
@@ -133,23 +133,23 @@ END;`
 `CALL CancelOrder(5);`
 
 ##  Customer Sales
- <img src="./Customer-Sales-Report.png" />
+ <img src="./images/Customer-Sales-Report.png" />
 
 <a name="2"></a>
 ##  Profits
- <img src="./profits.png" />
+ <img src="./images/profits.png" />
 
 <a name="2"></a>
 ##  Bubble Chart
- <img src="./buble.png" />
+ <img src="./images/buble.png" />
 
 <a name="2"></a>
 ##  Cuisine Sales
- <img src="./cusian.png" />
+ <img src="./images/cusian.png" />
 
 <a name="2"></a>
 ##  Dashboard
- <img src="./Dashboard.png" />
+ <img src="./images/Dashboard.png" />
 
 <a name="2"></a>
 
